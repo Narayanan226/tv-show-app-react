@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    overflow-x: hidden;
+}
+
+.container:hover{
+    overflow-x: overlay;
+}
+
+.list{
+    width: 250px;
+    margin-right: 20px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}

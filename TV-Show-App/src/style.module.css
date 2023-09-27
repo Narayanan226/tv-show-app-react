@@ -1,0 +1,20 @@
+.container {
+  padding: 20px;
+  width: 100vw - 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header{
+  flex: 2;
+}
+
+.movieDetail{
+  flex: 4;
+}
+
+.footer{
+  flex: 2;
+}
+

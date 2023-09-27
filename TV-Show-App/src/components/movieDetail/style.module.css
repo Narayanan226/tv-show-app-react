@@ -1,0 +1,31 @@
+.title{
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+}
+
+.overview{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    height: 120px;
+    margin-top: 10px;
+    overflow-y: hidden;
+    color: white;
+}
+
+.overview:hover{
+    overflow-y: auto;
+    color: white;
+}
+
+.rating{
+    color: white;
+    display: flex;
+}
+
+.rating span{
+    margin-top: 2px;
+    margin-left: 5px;
+}

@@ -1,0 +1,12 @@
+.container{
+    border: 1px solid black;
+    width: 250px;
+    height: 150px;
+}
+.title{
+    background: rgba(0,0,0,0,61);
+    color: white;
+    margin-top: 115px;
+    font-size: 20px;
+    background: rgba(0,0,0,0.61);
+}
